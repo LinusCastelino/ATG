@@ -1,19 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DSS/lib/resources.jar"/>
-	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DSS/lib/classes.jar"/>
 	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DPS/lib/resources.jar"/>
 	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DPS/lib/classes.jar"/>
 	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAS/lib/resources.jar"/>
-	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAS/lib/classes.jar"/>
-	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAS/lib/servlet.jar"/>
 	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAS/lib/jsp-api.jar"/>
 	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAS/lib/ice.jar"/>
 	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAS/lib/cglib-nodep-2.1_3.jar"/>
 	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAS/lib/spring-aop-1.2-rc1.jar"/>
 	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAS/lib/jline-0.9.94.jar"/>
 	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAS/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAS/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/CommerceReferenceStore/Store/EStore/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/CommerceReferenceStore/Store/EStore/International/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/CommerceReferenceStore/Store/EStore/International/Versioned/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/CommerceReferenceStore/Store/DCS-CSR/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/CommerceReferenceStore/Store/Endeca/Index/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/CommerceReferenceStore/Store/Endeca/Assembler/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/CommerceReferenceStore/Store/Fulfillment/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/CommerceReferenceStore/Store/Storefront/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DCS/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DCS/lib/resources.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAS/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAF/Endeca/Assembler/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAF/Endeca/Base/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAF/Endeca/Index/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/BCC/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/Service10.1.2/Service/Ticketing/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/Service10.1.2/Service/Response/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAF/Search/Index/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAF/Search/common/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAF/Search/Base/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DAF/Search/Routing/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DSS/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/DSS/lib/resources.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/Service-UI10.1.2/Service-UI/Framework/Agent/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/Service10.1.2/Service/Framework/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/Service10.1.2/Service/Framework/lib/ssce.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/Service10.1.2/Service/Framework/UI/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/Service10.1.2/Service/Framework/Agent/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/CSC10.1.2/DCS-CSR/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/Publishing/base/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/Publishing/base/lib/subclassloader.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/Agent/lib/classes.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/Ticketing/lib/ticketing.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/PublishingAgent/base/lib/agent.jar"/>
+	<classpathentry kind="lib" path="D:/ATG_Practice/ATG/ATG10.1.2/PublishingAgent/base/lib/classes.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_151"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

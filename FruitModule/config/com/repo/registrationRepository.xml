@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE gsa-template PUBLIC "-//Art Technology Group, Inc.//DTD General SQL Adapter//EN" "http://www.atg.com/dtds/gsa/gsa_1.0.dtd">
+
+<gsa-template>
+	<header>
+		<name>LinusRepository</name>
+		<author>Linus Castelino</author>
+		<version>1.0</version>
+	</header>
+	
+	<item-descriptor name="userReg">
+		<table name="userReg" id-column-name="login" type="primary">
+			<property name="login" column-name="login" display-name="User Login" data-type="string" />
+			<property name="password" column-name="pwd" display-name="Password" data-type="string" />
+		</table>
+	</item-descriptor>
+</gsa-template>

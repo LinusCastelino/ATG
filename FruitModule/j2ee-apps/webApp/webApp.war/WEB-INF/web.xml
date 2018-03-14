@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<!-- <!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd"> -->
 
-<web-app>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	version="2.5">
   <display-name>ATG Application</display-name>
   <description>An ATG Application</description>
 
@@ -142,6 +145,16 @@
     <taglib-uri>/dspTaglib</taglib-uri>
     <taglib-location>/WEB-INF/tld/dspjspTaglib1_0.tld</taglib-location>
   </taglib>
+  
+  <jsp-config>
+  	<jsp-property-group>
+  		<url-pattern>*.jsp</url-pattern>
+  		<el-ignored>false</el-ignored>
+        <page-encoding>UTF-8</page-encoding>
+        <!-- <scripting-invalid>true</scripting-invalid> -->
+        <include-prelude>/includes/prelude.jspf</include-prelude>
+  	</jsp-property-group>
+  </jsp-config>
 
 </web-app>
 <!-- @version $Id: //product/Eclipse/version/10.1.2/plugins/atg.project/templates/web.xml#1 $$Change: 713857 $ -->
