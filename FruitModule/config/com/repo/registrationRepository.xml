@@ -3,7 +3,7 @@
 
 <gsa-template>
 	<header>
-		<name>LinusRepository</name>
+		<name>RegistrationRepository</name>
 		<author>Linus Castelino</author>
 		<version>1.0</version>
 	</header>
