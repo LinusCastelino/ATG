@@ -17,7 +17,7 @@ public class ProfileExtractScheduler extends SingletonSchedulableService {
 			logDebug("Start - ProfileExtractScheduler:doScheduledTask");
 		
 		if(isEnabled()){
-			getProfileExtractProcessor().extractProfilesToFile();
+			getProfileExtractProcessor().extractProfilesAndPrint();
 		}
 		
 		if(isLoggingDebug())

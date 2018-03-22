@@ -22,7 +22,7 @@ public class ProfileExtractProcessor extends GenericService {
 	List<String> RQL_QueryParams;
 	Repository profileRepo;
 
-	public void extractProfilesToFile(){
+	public void extractProfilesAndPrint(){
 		//RepositoryItem[] profiles = extractProfilesUsingRQL();
 		RepositoryItem[] profiles = extractProfilesUsingQueryBuilder();
 		
