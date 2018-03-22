@@ -1,6 +1,8 @@
 package com.fruit;
 
-public class Fruit {
+import atg.nucleus.GenericService;
+
+public class Fruit extends GenericService {
 	
 	String fruitName;
 
